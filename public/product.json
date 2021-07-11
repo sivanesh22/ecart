@@ -1,0 +1,42 @@
+ 
+   [
+    {
+        "name": "JBL Headphone 213",
+        "price": 1200,
+        "category": "headphone",
+        "id": "h_1",
+        "image": "/asset/headphone1.jpeg"
+    },
+    {
+        "name": "Beats Headphone 920",
+        "price": 2200,
+        "category": "headphone",
+        "id": "h_2",
+        "image": "/asset/headphone2.jpeg"
+    },
+    {
+        "name": "IPhone 7",
+        "price": 50000,
+        "category": "mobile",
+        "id": "m_1",
+        "image": "/asset/iphone7.jpeg"
+    },
+    {
+        "name": "JBL Speaker 98",
+        "price": 3200,
+        "category": "speaker",
+        "id": "s_1",
+        "image": "/asset/speaker1.jpeg"
+    },
+    {
+        "name": "JBL Speaker 333",
+        "price": 4500,
+        "category": "speaker",
+        "id": "s_2",
+        "image": "/asset/speaker2.jpeg"
+    }
+
+]
+
+   
+  
